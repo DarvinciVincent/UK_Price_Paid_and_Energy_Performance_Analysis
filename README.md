@@ -20,8 +20,8 @@ Project Phases:
 **Key Deliverables:**<br>
 •	Well-structured Data Mart design.<br>
 •	Logical model(s) translating conceptual data structures into real-world database representations.<br>
-•	Hypothetical data generated and stored in a CSV file.
-•	Interactive Power BI dashboards and reports illustrating data-driven insights.
+•	Hypothetical data generated and stored in a CSV file.<br>
+•	Interactive Power BI dashboards and reports illustrating data-driven insights.<br>
 •	Strategic business questions addressed through data analysis.
 
 By the end of this project, we will have a comprehensive understanding of Data Warehousing, the ability to design effective Data Marts, and the proficiency to harness Business Intelligence tools like Power BI to derive valuable insights from data.
